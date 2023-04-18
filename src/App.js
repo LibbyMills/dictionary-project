@@ -14,6 +14,9 @@ function App() {
           <Dictionary />
         </section>
       </div>
+      <footer>
+        <small>Coded with 💛 by Libby Mills</small>
+      </footer>
     </div>
   );
 }
