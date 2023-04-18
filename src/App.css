@@ -1,0 +1,9 @@
+.logo {
+  display: block;
+  margin: 0 auto;
+  max-width: 300px;
+}
+.container {
+  display: block;
+  margin: 0 auto;
+}
