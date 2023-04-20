@@ -15,7 +15,7 @@ function App() {
         </section>
       </div>
       <footer>
-        <small>Coded with 💛 by Libby Mills.</small>
+        <small>Coded with 💛 by Libby Mills</small>
       </footer>
     </div>
   );
