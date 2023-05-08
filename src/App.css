@@ -1,3 +1,8 @@
+body {
+  background-color: #ffebd3;
+  font-family: "Domine", serif;
+}
+
 footer {
   text-align: center;
   padding-top: 20px;
@@ -10,4 +15,8 @@ footer {
 .container {
   display: block;
   margin: 0 auto;
+}
+
+h1 {
+  font-size: 28px;
 }

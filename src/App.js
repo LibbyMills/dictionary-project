@@ -11,7 +11,7 @@ function App() {
         </header>
 
         <section>
-          <Dictionary />
+          <Dictionary defaultKeyword="developer" />
         </section>
       </div>
       <footer>
