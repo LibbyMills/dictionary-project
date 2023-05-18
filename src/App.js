@@ -15,7 +15,17 @@ function App() {
         </section>
       </div>
       <footer>
-        <small>Coded with 💛 by Libby Mills</small>
+        <small>
+          Coded with 💛 by{" "}
+          <a
+            href="https://github.com/LibbyMills/dictionary-project"
+            target="_blank"
+            rel="noreferrer"
+          >
+            {" "}
+            Libby Mills
+          </a>
+        </small>
       </footer>
     </div>
   );
